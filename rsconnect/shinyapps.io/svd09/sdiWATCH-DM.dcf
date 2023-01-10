@@ -1,0 +1,14 @@
+name: sdiWATCH-DM
+title: sdiWATCH-DM
+username:
+account: svd09
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8003742
+bundleId: 6719354
+url: https://svd09.shinyapps.io/sdiWATCH-DM/
+when: 1673389799.4475
+lastSyncTime: 1673389799.44753
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md|shiny_app.R|summarybox.R
